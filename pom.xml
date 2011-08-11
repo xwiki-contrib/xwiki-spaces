@@ -40,10 +40,10 @@
     <!-- Skip Clirr execution, since this is a new component -->
     <xwiki.clirr.skip>true</xwiki.clirr.skip>
   </properties>
-    <scm>
-    <connection>scm:svn:http://svn.xwiki.org/svnroot/xwiki/contrib/projects/xwiki-spaces/trunk</connection>
-    <developerConnection>scm:svn:https://svn.xwiki.org/svnroot/xwiki/contrib/projects/xwiki-spaces/trunk</developerConnection>
-    <url>http://svn.xwiki.org/svnroot/xwiki/contrib/projects/xwiki-spaces/trunk</url>
+  <scm>
+    <connection>scm:git:git://github.com/xwiki-contrib/xwiki-spaces.git</connection>
+    <developerConnection>scm:git:git@github.com:xwiki-contrib/xwiki-spaces.git</developerConnection>
+    <url>https://github.com/xwiki-contrib/xwiki-spaces</url>
   </scm>
   <distributionManagement>
     <repository>
